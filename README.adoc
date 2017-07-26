@@ -84,7 +84,7 @@ create a https://github.com/arc42/microservice-examples/issues[pull-request].
 
 == License
 
-You're completely free to use these links - but _as-is_, there's no (as in zero) guarantuee
+You're completely free to use these links - but _as-is_, there's no (as in zero) guarantee
 that the examples will be working or any linked information is correct. I did my best
 to check and verify... but that might not be good enough for you...
 
