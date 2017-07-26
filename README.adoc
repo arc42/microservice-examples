@@ -1,0 +1,41 @@
+= image:./small-arc42-logo.png[arc42] Microservice Examples
+:TOC: right
+
+Here you find links to several examples of the https://martinfowler.com/articles/microservices.html[microservice architectural style].
+
+
+== Examples
+
+
+== Additional resources
+
+==== Articles
+
+* http://www.mammatustech.com/java-microservices-architecture/microservices-architecture-reading-list[curated reading list] (by Mammatus Inc).
+
+* https://martinfowler.com/microservices/[Microservice Resource Guide], by Martin Fowler and Thoughtworks.
+
+
+==== Books
+
+* Eberhard Wolff: Microservices
+* Chris Richardson: Microservice Patterns
+* Sam Newmann: Microservices
+
+* : The Tao of Microservices, Manning. Centered around the concept of _messages_ that are
+
+
+== Contribute
+
+In case you find additional examples, or like to add comments to the existing
+ones, please open an issue https://github.com/arc42/microservice-examples/issues[issue] or
+create a https://github.com/arc42/microservice-examples/issues[pull-request].
+
+
+== License
+
+You're completely free to use these links - but _as-is_, there's no (as in zero) guarantuee
+that the examples will be working or any linked information is correct. I did my best
+to check and verify... but that might not be good enough for you...
+
+So - you're left on your own.
