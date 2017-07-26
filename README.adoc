@@ -35,7 +35,7 @@ You find versions for different technologies:
 * https://github.com/ewolff/SCS-ESI[SCS-ESI]
 
 ==== https://www.manning.com/books/the-tao-of-microservices[Richard Rodger]
-Richard, author of "https://www.manning.com/books/the-tao-of-microservices[The Tao of Microservices]"
+Richard, author of https://www.manning.com/books/the-tao-of-microservices[The Tao of Microservices]
 has implemented a search engine
 for Node.js modules with a microservice architecture. He describes this example in his
 book, but a basic documentation is provided with the (open source) implementation.
