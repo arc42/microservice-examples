@@ -1,10 +1,27 @@
 = image:./small-arc42-logo.png[arc42] Microservice Examples
-:TOC: right
+:toc: macro
 
 Here you find links to several examples of the https://martinfowler.com/articles/microservices.html[microservice architectural style].
 
+toc::[right, preamble]
 
 == Examples
+
+http://microservices-book.com/[Eberhard Wolff] has implemented several examples. Designed around a
+fictional eCommerce enterprise, they consist of
+three microservices: One to process orders, another to handle
+customer data and a third to handle items in a catalogue.
+
+You find versions for different technologies:
+
+* https://github.com/ewolff/microservice[Netflix Stack]
+* https://github.com/ewolff/microservice-kafka[Kafka]
+* https://github.com/ewolff/microservice-atom[Atom]
+* https://github.com/ewolff/microservice-consul[Consul]
+* https://github.com/ewolff/microservice-kubernetes[Kubernetes]
+* https://github.com/ewolff/microservice-cloudfoundry[Cloudfoundry]
+* https://github.com/ewolff/SCS-jQuery[SCS-jquery]
+* https://github.com/ewolff/SCS-ESI[SCS-ESI]
 
 
 == Additional resources
