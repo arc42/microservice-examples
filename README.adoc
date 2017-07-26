@@ -66,7 +66,8 @@ The last commits in these repositories are somewhat dated - I'm not sure if they
 
 ==== Books
 
-* Eberhard Wolff: http://microservices-book.com/[Microservices: Flexible Software Architectures]
+* Eberhard Wolff: http://microservices-book.com/[Microservices: Flexible Software Architectures] / http://microservices-buch.de/[DE]
+* Eberhard Wolff: http://microservices-book.com/primer.html[Free Microservices Primer] / http://microservices-buch.de/ueberblick.html[DE]
 * Chris Richardson: https://www.manning.com/books/microservice-patterns[Microservice Patterns]
 * Sam Newmann: http://samnewman.io/books/building_microservices/[Microservices]
 
