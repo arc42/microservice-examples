@@ -7,7 +7,18 @@ toc::[right, preamble]
 
 == Examples
 
-http://microservices-book.com/[Eberhard Wolff] has implemented several examples. Designed around a
+==== Sock Shop
+A (quite full-fledged) demo application, including nice UI plus monitoring. Implemented and maintained
+by Weaveworks.
+
+Their application is https://microservices-demo.github.io/[online]
+and they have extensively documented their
+https://github.com/microservices-demo/microservices-demo/blob/master/internal-docs/design.md[architecture]
+
+* https://github.com/microservices-demo/microservices-demo[Sock Shop]
+
+==== http://microservices-book.com/[Eberhard Wolff]
+Eberhard has implemented several examples. Designed around a
 fictional eCommerce enterprise, they consist of
 three microservices: One to process orders, another to handle
 customer data and a third to handle items in a catalogue.
@@ -23,23 +34,44 @@ You find versions for different technologies:
 * https://github.com/ewolff/SCS-jQuery[SCS-jquery]
 * https://github.com/ewolff/SCS-ESI[SCS-ESI]
 
+==== https://www.manning.com/books/the-tao-of-microservices[Richard Rodger]
+Richard, author of "https://www.manning.com/books/the-tao-of-microservices[The Tao of Microservices]"
+has implemented a search engine
+for Node.js modules with a microservice architecture. He describes this example in his
+book, but a basic documentation is provided with the (open source) implementation.
+Btw: The system is available online at http://nodezoo.com/[nodezoo.com].
+
+From his documentation:
+[quote, Richard Rodger (Nodezoo.com): From his documentation]
+Nodezoo is a search engine for Node.js modules. The nodezoo search engine is an example of a real-world service built using Node.js microservices. Each microservice is published in its own github repository along with all of the necessary config to run the system locally or live . The codebase is intended to be used as an example,
+and as a starting point for your own projects.
+
+* https://github.com/nodezoo[Nodezoo at Github], contains all the examples.
+* https://github.com/nodezoo/nodezoo-workshop[Nodezoo Workshop], the entry-point into the actual code.
+
+The last commits in these repositories are somewhat dated - I'm not sure if they are actively maintained.
+
 
 == Additional resources
 
-==== Articles
+==== Article Collections ("reading lists")
 
 * http://www.mammatustech.com/java-microservices-architecture/microservices-architecture-reading-list[curated reading list] (by Mammatus Inc).
 
 * https://martinfowler.com/microservices/[Microservice Resource Guide], by Martin Fowler and Thoughtworks.
 
+* https://github.com/mfornos/awesome-microservices[List of related principles and technologies] by Marc Fornos.
+
+
 
 ==== Books
 
-* Eberhard Wolff: Microservices
-* Chris Richardson: Microservice Patterns
-* Sam Newmann: Microservices
+* Eberhard Wolff: http://microservices-book.com/[Microservices: Flexible Software Architectures]
+* Chris Richardson: https://www.manning.com/books/microservice-patterns[Microservice Patterns]
+* Sam Newmann: http://samnewman.io/books/building_microservices/[Microservices]
 
-* : The Tao of Microservices, Manning. Centered around the concept of _messages_ that are
+* Richard Rodger: https://www.manning.com/books/the-tao-of-microservices[The Tao of Microservices], Manning.
+Centered around the concept of _messages_ that are transmitted between services.
 
 
 == Contribute
