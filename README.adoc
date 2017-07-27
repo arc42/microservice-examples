@@ -34,6 +34,11 @@ You find versions for different technologies:
 * https://github.com/ewolff/SCS-jQuery[SCS-jquery]
 * https://github.com/ewolff/SCS-ESI[SCS-ESI]
 
+==== [Chris Richardson]
+Chris is the author of https://microservices.io[].
+
+* https://github.com/cer/[Event Sourcing Example]
+
 ==== https://www.manning.com/books/the-tao-of-microservices[Richard Rodger]
 Richard, author of https://www.manning.com/books/the-tao-of-microservices[The Tao of Microservices]
 has implemented a search engine
