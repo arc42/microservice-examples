@@ -29,9 +29,10 @@ You find versions for different technologies:
 * https://github.com/ewolff/microservice-kafka[Kafka]
 * https://github.com/ewolff/microservice-atom[Atom]
 * https://github.com/ewolff/microservice-consul[Consul]
+* https://github.com/ewolff/microservice-consul-dns[Consul as DNS server]
 * https://github.com/ewolff/microservice-kubernetes[Kubernetes]
 * https://github.com/ewolff/microservice-cloudfoundry[Cloudfoundry]
-* https://github.com/ewolff/SCS-jQuery[SCS-jquery]
+* https://github.com/ewolff/SCS-jQuery[SCS-jQuery]
 * https://github.com/ewolff/SCS-ESI[SCS-ESI]
 
 ==== [Chris Richardson]
